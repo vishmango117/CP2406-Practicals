@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="" />
+    <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/CodingExcercises/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/CodingExcercises/FavoriteSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ch01/FavoriteSong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuoteInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuoteInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ch01/META-INF/ch01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ch01/MovieQuote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch01/MovieQuote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ch01/MovieQuoteInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch01/MovieQuoteInfo.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +29,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TdTryTWhjiO4dbJYAPiPrMADuD" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,9 +63,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TableAndChairs">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Comments">
+    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comments" />
+      <module name="ch01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavoriteSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FavoriteSong" />
       <module name="ch01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,10 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TableAndChairs" />
-        <item itemvalue="Application.MovieQuote" />
+        <item itemvalue="Application.Comments" />
+        <item itemvalue="Application.FavoriteSong" />
         <item itemvalue="Application.MovieQuoteInfo" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MovieQuote" />
+        <item itemvalue="Application.TableAndChairs" />
       </list>
     </recent_temporary>
   </component>
@@ -96,10 +120,22 @@
       <option name="presentableId" value="Default" />
       <updated>1573789174993</updated>
       <workItem from="1573789179147" duration="4545000" />
+      <workItem from="1573953997155" duration="2956000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

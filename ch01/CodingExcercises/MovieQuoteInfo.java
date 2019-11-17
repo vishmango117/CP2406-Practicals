@@ -1,15 +1,15 @@
 public class MovieQuoteInfo {
-    private MovieQuote myquote;
+    private String myquote;
     private String movie_name;
     private int movie_year;
 
-    public MovieQuoteInfo(MovieQuote myquote, String movie_name, int movie_year) {
+    public MovieQuoteInfo(String myquote, String movie_name, int movie_year) {
         this.myquote = myquote;
         this.movie_name = movie_name;
         this.movie_year = movie_year;
     }
 
-    public MovieQuote getMyquote() {
+    public String getMyquote() {
         return myquote;
     }
 
@@ -22,8 +22,8 @@ public class MovieQuoteInfo {
     }
 
     public static void main(String[] args) {
-        MovieQuote shakespeare_quote = new MovieQuote("To Be or not to Be");
-        MovieQuoteInfo shakespeare = new MovieQuoteInfo(shakespeare_quote, "Hamlet", 1645);
+        MovieQuoteInfo shakespeare = new MovieQuoteInfo("Kopeng me sasa ke",
+                "The Expanse", 2016);
         System.out.println("Movie Information:");
         System.out.println("Quote:"+shakespeare.getMyquote());
         System.out.println("Movie Name:"+shakespeare.getMovie_name());

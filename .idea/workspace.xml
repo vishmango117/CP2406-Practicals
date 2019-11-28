@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ch01/CodingExcercises/BurmaShave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/CodingExcercises/CommentsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/InchesToFeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/InchesToFeetInteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/NauticalMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/NauticalMilesInteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/QuartsToGallons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/QuartsToGallonsInteractive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406P3-Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406P3-Practicals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodingExcercises/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/CodingExcercises/Comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ch01/Comments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch01/Comments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ch01/MovieQuote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch01/MovieQuote.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +45,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -41,6 +54,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -55,49 +71,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FavoriteSong">
-    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comments" />
-      <module name="ch01" />
+  <component name="RunManager" selected="Application.QuartsToGallonsInteractive">
+    <configuration name="InchesToFeet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InchesToFeet" />
+      <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FavoriteSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FavoriteSong" />
-      <module name="ch01" />
+    <configuration name="InchesToFeetInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InchesToFeetInteractive" />
+      <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MovieQuote" />
-      <module name="ch01" />
+    <configuration name="NauticalMiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NauticalMiles" />
+      <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieQuoteInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MovieQuoteInfo" />
-      <module name="ch01" />
+    <configuration name="NauticalMilesInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NauticalMilesInteractive" />
+      <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableAndChairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TableAndChairs" />
-      <module name="ch01" />
+    <configuration name="QuartsToGallonsInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuartsToGallonsInteractive" />
+      <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FavoriteSong" />
-        <item itemvalue="Application.Comments" />
-        <item itemvalue="Application.MovieQuoteInfo" />
-        <item itemvalue="Application.MovieQuote" />
-        <item itemvalue="Application.TableAndChairs" />
+        <item itemvalue="Application.QuartsToGallonsInteractive" />
+        <item itemvalue="Application.InchesToFeetInteractive" />
+        <item itemvalue="Application.InchesToFeet" />
+        <item itemvalue="Application.NauticalMilesInteractive" />
+        <item itemvalue="Application.NauticalMiles" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +129,11 @@
       <updated>1573789174993</updated>
       <workItem from="1573789179147" duration="4545000" />
       <workItem from="1573953997155" duration="3304000" />
+      <workItem from="1574321732991" duration="923000" />
+      <workItem from="1574393442646" duration="4278000" />
+      <workItem from="1574410291858" duration="1321000" />
+      <workItem from="1574861700575" duration="624000" />
+      <workItem from="1574954452110" duration="1795000" />
     </task>
     <servers />
   </component>
@@ -124,7 +145,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

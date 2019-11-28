@@ -20,7 +20,7 @@ public class Comments {
 
     public static void main(String[] args) {
         Comments aboutComments = new Comments(
-                "Program Comments are nonexecuting statements" +
+                "Program Comments are non-executing statements" +
                         " you add to a file for the purpose of documentation",
                 "1. Single Line Comment which is using // on a single line",
                 "2. Multiline Comment which is using /* to open and */ to close comments",

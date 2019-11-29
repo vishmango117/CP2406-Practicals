@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch01/CodingExcercises/BurmaShave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01/CodingExcercises/CommentsDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/InchesToFeet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/InchesToFeetInteractive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/NauticalMiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/NauticalMilesInteractive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/QuartsToGallons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02/CodingExcercises/QuartsToGallonsInteractive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/CraftPricing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/MetricConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/SandwichFilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/TestBread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/TestSandwichFilling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CP2406P3-Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406P3-Practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodingExcercises/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/CodingExcercises/Comments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch01/Comments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch01/Comments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch01/MovieQuote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch01/MovieQuote.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,30 +68,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuartsToGallonsInteractive">
-    <configuration name="InchesToFeet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InchesToFeet" />
+  <component name="RunManager" selected="Application.CraftPricing">
+    <configuration name="CraftPricing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CraftPricing" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InchesToFeetInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InchesToFeetInteractive" />
+    <configuration name="MetricConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetricConversion" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NauticalMiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NauticalMiles" />
+    <configuration name="NumbersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersDemo" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NauticalMilesInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NauticalMilesInteractive" />
+    <configuration name="NumbersDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersDemo2" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CraftPricing" />
+        <item itemvalue="Application.MetricConversion" />
+        <item itemvalue="Application.NumbersDemo2" />
+        <item itemvalue="Application.NumbersDemo" />
         <item itemvalue="Application.QuartsToGallonsInteractive" />
-        <item itemvalue="Application.InchesToFeetInteractive" />
-        <item itemvalue="Application.InchesToFeet" />
-        <item itemvalue="Application.NauticalMilesInteractive" />
-        <item itemvalue="Application.NauticalMiles" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +131,8 @@
       <workItem from="1574410291858" duration="1321000" />
       <workItem from="1574861700575" duration="624000" />
       <workItem from="1574954452110" duration="1795000" />
+      <workItem from="1574996887954" duration="6308000" />
+      <workItem from="1575033175036" duration="3762000" />
     </task>
     <servers />
   </component>

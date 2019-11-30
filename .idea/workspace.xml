@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/CraftPricing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/MetricConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/SandwichFilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/TestBread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/TestSandwichFilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/BloodData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestBloodData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestSandwich.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406P3-Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406P3-Practicals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/CraftPricing.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/CraftPricing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/MetricConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/MetricConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Sandwich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/SandwichFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/SandwichFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/TestBread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestBread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/TestSandwich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/TestSandwichFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestSandwichFilling.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,37 +74,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CraftPricing">
+  <component name="RunManager" selected="Application.TestSandwich">
     <configuration name="CraftPricing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CraftPricing" />
+      <option name="MAIN_CLASS_NAME" value="Task2.CraftPricing" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MetricConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MetricConversion" />
-      <module name="CP2406P3-Practicals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumbersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersDemo" />
+      <option name="MAIN_CLASS_NAME" value="Task2.MetricConversion" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="NumbersDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersDemo2" />
+      <option name="MAIN_CLASS_NAME" value="Task2.NumbersDemo2" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuartsToGallonsInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuartsToGallonsInteractive" />
+    <configuration name="TestBread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4_Qn6.TestBread" />
+      <module name="CP2406P3-Practicals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSandwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4_Qn6.TestSandwich" />
       <module name="CP2406P3-Practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSandwich" />
+        <item itemvalue="Application.TestBread" />
         <item itemvalue="Application.CraftPricing" />
         <item itemvalue="Application.MetricConversion" />
         <item itemvalue="Application.NumbersDemo2" />
-        <item itemvalue="Application.NumbersDemo" />
-        <item itemvalue="Application.QuartsToGallonsInteractive" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +138,7 @@
       <workItem from="1574861700575" duration="624000" />
       <workItem from="1574954452110" duration="1795000" />
       <workItem from="1574996887954" duration="6308000" />
-      <workItem from="1575033175036" duration="3762000" />
+      <workItem from="1575033175036" duration="7634000" />
     </task>
     <servers />
   </component>

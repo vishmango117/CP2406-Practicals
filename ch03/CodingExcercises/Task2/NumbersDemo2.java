@@ -1,5 +1,7 @@
+// Task2 Qn-4b)
 package Task2;
 
+//import scanner function to take input
 import java.util.Scanner;
 
 public class NumbersDemo2 {

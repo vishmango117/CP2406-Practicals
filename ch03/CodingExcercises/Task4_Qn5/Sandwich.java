@@ -1,13 +1,17 @@
-package Task4_Qn6;
+package Task4_Qn5;
 
 public class Sandwich {
+    private String name;
     private Bread bread_filling;
     private SandwichFilling sandwich_filling;
 
-    public Sandwich(Bread bread_filling, SandwichFilling sandwich_filling) {
+    public Sandwich(String name, Bread bread_filling, SandwichFilling sandwich_filling) {
+        this.name = name;
         this.bread_filling = bread_filling;
         this.sandwich_filling = sandwich_filling;
     }
+
+    public String getName() { return name; }
 
     public Bread getBread_filling() {
         return bread_filling;

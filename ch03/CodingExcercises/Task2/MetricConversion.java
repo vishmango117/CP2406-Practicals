@@ -1,3 +1,4 @@
+//Task2 Qn7
 package Task2;
 
 import java.util.Scanner;
@@ -26,6 +27,6 @@ public class MetricConversion {
         int gallons = readata.nextInt();
         System.out.println("Metric Values are:");
         System.out.println(inches+" inches gives "+myobject.conversion(inches,myobject.INCH_TO_CM)+" centimeters(1 inch = 2.54 cm)");
-        System.out.println(gallons+" gallons gives "+myobject.conversion(inches,myobject.GALLON_TO_LITRES)+" litres(1 gallon = 3.7854 litres)");
+        System.out.println(gallons+" gallons gives "+myobject.conversion(gallons,myobject.GALLON_TO_LITRES)+" litres(1 gallon = 3.7854 litres)");
     }
 }

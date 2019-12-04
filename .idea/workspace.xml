@@ -2,23 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/BloodData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestBloodData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestPatient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestSandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn2/Billing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn3/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn3/TestFitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn4/BloodData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn4/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn4/TestBloodData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn4/TestPatient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/Bread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/CraftPricing.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/CraftPricing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/MetricConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/MetricConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/NumbersDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Sandwich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/SandwichFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/SandwichFilling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/TestBread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestBread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/TestSandwich.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/TestSandwichFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestSandwichFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/CraftPricing.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/CraftPricing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/MetricConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/MetricConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task2/NumbersDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/BloodData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestBloodData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestPatient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/Sandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/Sandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/SandwichFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/SandwichFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestBread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestBread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestSandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestSandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn6/TestSandwichFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/CodingExcercises/Task4_Qn5/TestSandwichFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/CraftPricing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/MetricConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/NumbersDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/NumbersDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/Task4_Qn6/Bread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/Task4_Qn6/Sandwich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/Task4_Qn6/SandwichFilling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/Task4_Qn6/TestBread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/Task4_Qn6/TestSandwich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/Task4_Qn6/TestSandwichFilling.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +43,20 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,34 +107,64 @@
     <configuration name="CraftPricing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2.CraftPricing" />
       <module name="CP2406P3-Practicals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MetricConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.MetricConversion" />
-      <module name="CP2406P3-Practicals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumbersDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.NumbersDemo2" />
-      <module name="CP2406P3-Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestBread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task4_Qn6.TestBread" />
+      <option name="MAIN_CLASS_NAME" value="Task4_Qn5.TestBread" />
       <module name="CP2406P3-Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4_Qn5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPatient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4_Qn4.TestPatient" />
+      <module name="CP2406P3-Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4_Qn4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestSandwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task4_Qn6.TestSandwich" />
+      <option name="MAIN_CLASS_NAME" value="Task4_Qn5.TestSandwich" />
       <module name="CP2406P3-Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4_Qn5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSandwichFilling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4_Qn5.TestSandwichFilling" />
+      <module name="CP2406P3-Practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4_Qn5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,10 +172,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestSandwich" />
+        <item itemvalue="Application.TestSandwichFilling" />
         <item itemvalue="Application.TestBread" />
+        <item itemvalue="Application.TestPatient" />
         <item itemvalue="Application.CraftPricing" />
-        <item itemvalue="Application.MetricConversion" />
-        <item itemvalue="Application.NumbersDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +198,9 @@
       <workItem from="1574954452110" duration="1795000" />
       <workItem from="1574996887954" duration="6308000" />
       <workItem from="1575033175036" duration="7634000" />
+      <workItem from="1575101074382" duration="12316000" />
+      <workItem from="1575275475565" duration="6234000" />
+      <workItem from="1575294481054" duration="5000" />
     </task>
     <servers />
   </component>

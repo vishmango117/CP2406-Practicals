@@ -1,3 +1,4 @@
+//Task2 Qn-10
 package Task2;
 
 import java.util.Scanner;

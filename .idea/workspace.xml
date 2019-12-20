@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch04/ch04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/src/Task2/AscendingandDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/src/Task2/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/src/Task4/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/src/Task4/Perfect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/ch05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/src/Task2/BabyNameComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/src/Task2/CountWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/src/Task2/ThreeLetterAcronym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/src/Task4/ArrayMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/src/Task4/CarCareChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/src/Task4/CarCareChoice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/src/Task4/DistanceFromAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/src/Task4/TwelveInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/ch06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/Candle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/DemoCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/DemoHorses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/RaceHorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/ScentedCandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CP2406P3-Practicals/META-INF/CP2406P3-Practicals.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,13 +85,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeLetterAcronym">
-    <configuration name="AscendingandDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.AscendingandDescending" />
-      <module name="ch04" />
+  <component name="RunManager" selected="Application.DemoCandles">
+    <configuration name="ArrayMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4.ArrayMethodDemo" />
+      <module name="ch05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task2.*" />
+          <option name="PATTERN" value="Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,9 +125,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.EvenOdd" />
-      <module name="ch04" />
+    <configuration name="DemoCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.DemoCandles" />
+      <module name="ch06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Task2.*" />
@@ -136,9 +138,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeLetterAcronym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.ThreeLetterAcronym" />
-      <module name="ch05" />
+    <configuration name="DemoHorses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.DemoHorses" />
+      <module name="ch06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Task2.*" />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreeLetterAcronym" />
+        <item itemvalue="Application.DemoCandles" />
+        <item itemvalue="Application.DemoHorses" />
         <item itemvalue="Application.CountWords" />
         <item itemvalue="Application.BabyNameComparison" />
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.AscendingandDescending" />
+        <item itemvalue="Application.ArrayMethodDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +187,10 @@
       <workItem from="1576206602643" duration="112000" />
       <workItem from="1576207174767" duration="5398000" />
       <workItem from="1576213970865" duration="131000" />
+      <workItem from="1576221287244" duration="17795000" />
+      <workItem from="1576483794981" duration="2666000" />
+      <workItem from="1576654140462" duration="226000" />
+      <workItem from="1576812647037" duration="2255000" />
     </task>
     <servers />
   </component>

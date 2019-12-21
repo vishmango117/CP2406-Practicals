@@ -2,11 +2,13 @@ package Task2;
 
 import java.util.Date;
 
+// Horse Class
 public class Horse {
     private String name;
     private String color;
     private int birthyear;
 
+    //Constructor with params
     public Horse(String name, String color, int birthyear) {
         this.name = name;
         this.color = color;

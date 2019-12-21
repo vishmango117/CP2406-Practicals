@@ -1,8 +1,12 @@
 package Task2;
 
+//Class to Test the Candles and ScentedCandles Classes
 public class DemoCandles {
+    // Main function
     public static void main(String[] args) {
-        Candle generic_candle = new Candle("Blue", 4, 8);
+        // Candle and ScentedCandle objects creation
+        Candle generic_candle = new Candle();
+        generic_candle.
         ScentedCandle custom_candle = new ScentedCandle(generic_candle, "Lavender");
 
         //Object of Base Class

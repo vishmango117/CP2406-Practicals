@@ -1,14 +1,16 @@
 package Task2;
 
+//Class Candle
 public class Candle {
+    //Instance Variables
     private String color;
-    private float height;
-    private float price;
+    private double height;
+    private double price;
 
-    public Candle(String color, float height, float price) {
-        this.color = color;
-        this.height = height;
-        this.price = price;
+    // Getters and Setters for all instance variables
+
+    public void computePrice(int cost) {
+        this.price = this.height*cost;
     }
 
     public String getColor() {
@@ -19,19 +21,16 @@ public class Candle {
         this.color = color;
     }
 
-    public float getHeight() {
+    public double getHeight() {
         return height;
     }
 
-    public void setHeight(float height) {
+    public void setHeight(double height) {
         this.height = height;
+        this.computePrice(2);
     }
 
-    public float getPrice() {
+    public double getPrice() {
         return price;
-    }
-
-    public void setPrice(float price) {
-        this.price = price;
     }
 }

@@ -1,18 +1,18 @@
 package Task2;
 
+// ScentedCandle class inherits from Candle class
 public class ScentedCandle extends Candle {
+    // additional instance variables
     private String scent;
 
-    public ScentedCandle(Candle mycandle, String scent) {
-        super(mycandle.getColor(), mycandle.getHeight(), mycandle.getPrice());
-        this.scent = scent;
+
+    @Override
+    public void setHeight(double height) {
+        super.setHeight(height);
+        super.computePrice(3);
     }
 
-    public ScentedCandle(String color, float height, float price, String scent) {
-        super(color, height, price);
-        this.scent = scent;
-    }
-
+    //Getters and Setters
     public String getScent() {
         return scent;
     }

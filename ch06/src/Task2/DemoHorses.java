@@ -2,6 +2,7 @@ package Task2;
 
 public class DemoHorses {
     public static void main(String[] args) {
+        //Instantiating Objects
         Horse myhorse = new Horse("Ol Reliable", "Brown", 2005);
         RaceHorse myracehorse = new RaceHorse("New Reliable","White",2015,10);
 

@@ -2,27 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/DemoItemsAndPets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/DemoRocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/IgenousRock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/ItemSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/MetamorphicRock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/PetSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/Rock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/src/Task2/SedimentaryRock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/ch07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/Fiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/NonFiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/UseBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q7/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q7/TwoEventParticipant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/GraduateStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/StudentAtLarge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/UndergraduateStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/DemoTurners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/DemoTurners2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Pancake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Screwdriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/SteeringWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Turner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06/src/Task2/Candle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/src/Task2/Candle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06/src/Task2/DemoCandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/src/Task2/DemoCandles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06/src/Task2/DemoHorses.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/src/Task2/DemoHorses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06/src/Task2/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/src/Task2/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06/src/Task2/RaceHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/src/Task2/RaceHorse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06/src/Task2/ScentedCandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/src/Task2/ScentedCandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch06/Task2/Candle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch06/Task2/Candle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch06/Task2/DemoCandles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch06/Task2/DemoCandles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch06/Task2/DemoHorses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch06/Task2/DemoHorses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch06/Task2/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch06/Task2/Horse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch06/Task2/RaceHorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch06/Task2/RaceHorse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ch06/Task2/ScentedCandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ch06/Task2/ScentedCandle.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +52,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -65,6 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -92,79 +96,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoItemsAndPets">
-    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.CountWords" />
-      <module name="ch05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.TwoEventParticipant">
+    <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_Q1.BookArray" />
+      <module name="ch07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.DemoCandles" />
-      <module name="ch06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="DemoTurners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_Q9.DemoTurners" />
+      <module name="ch07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoHorses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.DemoHorses" />
-      <module name="ch06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="DemoTurners2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_Q9.DemoTurners2" />
+      <module name="ch07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoItemsAndPets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.DemoItemsAndPets" />
-      <module name="ch06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_Q8.StudentDemo" />
+      <module name="ch07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoRocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2.DemoRocks" />
-      <module name="ch06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TwoEventParticipant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_Q7.TwoEventParticipant" />
+      <module name="ch07" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoItemsAndPets" />
-        <item itemvalue="Application.DemoHorses" />
-        <item itemvalue="Application.DemoRocks" />
-        <item itemvalue="Application.DemoCandles" />
-        <item itemvalue="Application.CountWords" />
+        <item itemvalue="Application.TwoEventParticipant" />
+        <item itemvalue="Application.StudentDemo" />
+        <item itemvalue="Application.DemoTurners2" />
+        <item itemvalue="Application.DemoTurners" />
+        <item itemvalue="Application.BookArray" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +172,8 @@
       <workItem from="1576483794981" duration="2666000" />
       <workItem from="1576654140462" duration="226000" />
       <workItem from="1576812647037" duration="14963000" />
+      <workItem from="1578022092141" duration="11464000" />
+      <workItem from="1578040986466" duration="286000" />
     </task>
     <servers />
   </component>

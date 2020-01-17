@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch07/ch07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/BookArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/Fiction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/NonFiction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q1/UseBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q7/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q7/TwoEventParticipant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/GraduateStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/StudentAtLarge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/StudentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q8/UndergraduateStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/DemoTurners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/DemoTurners2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Leaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Pancake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Screwdriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/SteeringWheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/src/Task2_Q9/Turner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +45,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CP2406-A1" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -174,6 +150,7 @@
       <workItem from="1576812647037" duration="14963000" />
       <workItem from="1578022092141" duration="11464000" />
       <workItem from="1578040986466" duration="286000" />
+      <workItem from="1578041476052" duration="11000" />
     </task>
     <servers />
   </component>

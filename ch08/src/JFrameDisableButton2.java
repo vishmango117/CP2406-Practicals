@@ -1,0 +1,2 @@
+public class JFrameDisableButton2 {
+}

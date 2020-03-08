@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a55e30-6776-4f06-82e1-678ff61335e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch08/ch08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JBookQuote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JBookQuote2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JFrameDisableButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JFrameDisableButton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JHistoricalFacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JPhotoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JTVDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08/src/JTVDownload2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/ch09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/src/JColorFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/src/JMovieFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/src/JMovingFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/src/JavaJuniorCollege.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406P3-Practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406P3-Practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/CodingExcercises/MovieQuote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +62,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -219,29 +203,29 @@
       <screen x="2560" y="373" width="1920" height="1040" />
     </state>
     <state x="2560" y="373" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579796498555" />
-    <state x="3250" y="590" key="FileChooserDialogImpl" timestamp="1579403675948">
+    <state x="3250" y="590" key="FileChooserDialogImpl" timestamp="1581406043167">
       <screen x="2560" y="373" width="1920" height="1040" />
     </state>
-    <state x="3250" y="590" key="FileChooserDialogImpl/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579403675948" />
-    <state width="1222" height="268" key="GridCell.Tab.0.bottom" timestamp="1579803354542">
+    <state x="3250" y="590" key="FileChooserDialogImpl/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1581406043167" />
+    <state width="2505" height="268" key="GridCell.Tab.0.bottom" timestamp="1580795654866">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1222" height="268" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1579803354542" />
+    <state width="2505" height="268" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1580795654866" />
     <state width="1848" height="268" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579797263290" />
-    <state width="1222" height="268" key="GridCell.Tab.0.center" timestamp="1579803354542">
+    <state width="2505" height="268" key="GridCell.Tab.0.center" timestamp="1580795654866">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1222" height="268" key="GridCell.Tab.0.center/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1579803354542" />
+    <state width="2505" height="268" key="GridCell.Tab.0.center/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1580795654866" />
     <state width="1848" height="268" key="GridCell.Tab.0.center/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579797263290" />
-    <state width="1222" height="268" key="GridCell.Tab.0.left" timestamp="1579803354542">
+    <state width="2505" height="268" key="GridCell.Tab.0.left" timestamp="1580795654865">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1222" height="268" key="GridCell.Tab.0.left/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1579803354542" />
+    <state width="2505" height="268" key="GridCell.Tab.0.left/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1580795654865" />
     <state width="1848" height="268" key="GridCell.Tab.0.left/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579797263290" />
-    <state width="1222" height="268" key="GridCell.Tab.0.right" timestamp="1579803354542">
+    <state width="2505" height="268" key="GridCell.Tab.0.right" timestamp="1580795654866">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1222" height="268" key="GridCell.Tab.0.right/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1579803354542" />
+    <state width="2505" height="268" key="GridCell.Tab.0.right/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1580795654866" />
     <state width="1848" height="268" key="GridCell.Tab.0.right/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579797263290" />
     <state width="1865" height="333" key="GridCell.Tab.1.bottom" timestamp="1579259775563">
       <screen x="2560" y="373" width="1920" height="1040" />
@@ -259,18 +243,23 @@
       <screen x="2560" y="373" width="1920" height="1040" />
     </state>
     <state width="1865" height="333" key="GridCell.Tab.1.right/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579259775562" />
-    <state x="3151" y="675" key="com.intellij.ide.util.TipDialog" timestamp="1579403161220">
+    <state x="2912" y="450" key="SettingsEditor" timestamp="1581405950300">
       <screen x="2560" y="373" width="1920" height="1040" />
     </state>
-    <state x="3151" y="675" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579403161220" />
+    <state x="2912" y="450" key="SettingsEditor/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1581405950300" />
+    <state x="3151" y="675" key="com.intellij.ide.util.TipDialog" timestamp="1581405965476">
+      <screen x="2560" y="373" width="1920" height="1040" />
+    </state>
+    <state x="788" y="407" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.373.1920.1040@0.0.2560.1400" timestamp="1581405902449" />
+    <state x="3151" y="675" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1581405965476" />
     <state x="3176" y="472" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579255804982">
       <screen x="2560" y="373" width="1920" height="1040" />
     </state>
     <state x="3176" y="472" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579255804982" />
-    <state x="2790" y="425" key="new project wizard" timestamp="1579247258720">
+    <state x="2790" y="425" key="new project wizard" timestamp="1581406104616">
       <screen x="2560" y="373" width="1920" height="1040" />
     </state>
-    <state x="2790" y="425" key="new project wizard/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1579247258720" />
+    <state x="2790" y="425" key="new project wizard/0.0.2560.1400/2560.373.1920.1040@2560.373.1920.1040" timestamp="1581406104616" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
